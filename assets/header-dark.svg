@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" fill="none">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+  </style>
+  <text class="sans" x="2" y="72" font-size="52" font-weight="600" letter-spacing="-1.5" fill="#e6edf3">hello there,</text>
+  <text class="mono" x="4" y="112" font-size="16" fill="#7d8590">idk what i'm doing here<tspan fill="#e6edf3"> _<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  <rect x="4" y="138" width="892" height="1" fill="#30363d"/>
+</svg>
